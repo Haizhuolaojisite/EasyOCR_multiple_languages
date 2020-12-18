@@ -1,0 +1,1 @@
+# EasyOCR_multiple_languages
